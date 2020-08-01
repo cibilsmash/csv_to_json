@@ -1,16 +1,1 @@
-{
-    "cibil": {
-        "Name": "cibil",
-        "Age": "23",
-        "Collage": "karunya",
-        "Course": "cse",
-        "year": ""
-    },
-    "prem ": {
-        "Name": "prem ",
-        "Age": "20",
-        "Collage": "karunya",
-        "Course": "cse",
-        "year": "2014"
-    }
-}
+["Name", "Age", "Collage", "Course", "year", "cibil", "23", "karunya", "cse", "2014", "prem ", "20", "NULL", "cse", "2014"]
