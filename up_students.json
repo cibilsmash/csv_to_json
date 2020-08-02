@@ -1,0 +1,16 @@
+[
+    {
+        "Name": "cibil",
+        "Age": 23,
+        "Collage": "karunya",
+        "Course": "cse",
+        "year": 2014
+    },
+    {
+        "Name": "prem",
+        "Age": 20,
+        "Collage": "NULL",
+        "Course": "cse",
+        "year": 2014
+    }
+]
